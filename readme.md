@@ -22,9 +22,9 @@ Here, we explore the interest evolution environment from [`RecSim`](https://ai.g
 
 ## Important Links
 
-1. [Problem Formulation Document](https://github.com/collinprather/SlateQ/blob/master/project_proposal.pdf)
-2. [Exploratory Notebook on the interest evolution environment](https://github.com/collinprather/SlateQ/blob/master/notebooks/baseline_agents.ipynb)
-3. [Notebook comparing RL techniques](https://github.com/collinprather/SlateQ/blob/master/notebooks/baseline_agents.ipynb)
+1. [Problem Formulation Document](https://github.com/ShishirKumar93/SlateQ/blob/master/project_proposal.pdf)
+2. [Exploratory Notebook on the interest evolution environment](https://github.com/ShishirKumar93/SlateQ/blob/master/notebooks/baseline_agents.ipynb)
+3. [Notebook comparing RL techniques](https://github.com/ShishirKumar93/SlateQ/blob/master/notebooks/SlateQ_comparison.ipynb)
 4. [Presentation](https://docs.google.com/presentation/d/1VqM9oZTlmJTSrctpoUE7FIX_SZyDKCh6ex3zFkil21g/edit?usp=sharing)
 
 ## Contributors
