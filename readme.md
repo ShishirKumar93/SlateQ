@@ -26,12 +26,14 @@ Here, we explore the interest evolution environment from [`RecSim`](https://ai.g
 2. [Exploratory Notebook on the interest evolution environment](https://github.com/ShishirKumar93/SlateQ/blob/master/notebooks/baseline_agents.ipynb)
 3. [Notebook comparing RL techniques](https://github.com/ShishirKumar93/SlateQ/blob/master/notebooks/SlateQ_comparison.ipynb)
 4. [Presentation](https://docs.google.com/presentation/d/1VqM9oZTlmJTSrctpoUE7FIX_SZyDKCh6ex3zFkil21g/edit?usp=sharing)
+5. [Medium Article](https://medium.com/analytics-vidhya/slateq-a-scalable-algorithm-for-slate-recommendation-problems-735a1c24458c?source=friends_link&sk=9c9e6d55f2329c5766d837ca8ae44475)
 
 ## Contributors
 
-[Collin Prather](https://www.linkedin.com/in/collin-prather/) and [Shishir Kumar](https://www.linkedin.com/in/shishir-kumar/) are Master students in Data Science at the University of San Francisco.
+[Collin Prather](https://www.linkedin.com/in/collin-prather/) 
+[Shishir Kumar](https://www.linkedin.com/in/shishir-kumar/)
 
-Thanks to [Prof Brian Spiering](https://www.linkedin.com/in/brianspiering/) for introducing us to this wonderful world of RL.
+Special thanks to [Prof Brian Spiering](https://www.linkedin.com/in/brianspiering/) for introducing us to this wonderful world of RL.
 
 
 ---
